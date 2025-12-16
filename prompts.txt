@@ -1,0 +1,119 @@
+make the shirt blue and remove the logo
+brighten the image and blur the background slightly
+add a red hat and make it smaller
+swap the sky with a sunset and increase overall contrast
+remove the watermark and sharpen the subject
+change the car color to matte black and lower the saturation of the background
+turn the mug green and add the text "RIT"
+remove the person in the background and crop tighter on the dog
+replace the painting with a landscape and align it straight
+make the grass more vibrant and reduce the shadows on the face
+increase the brightness of the face and reduce noise in the background
+add a small plant on the desk and rotate the book to be straight
+recolor the backpack to navy and remove the brand tag
+make the window curtains white and darken the outside sky
+remove the scratches on the phone and make the screen brighter
+add a blue sticker to the laptop and blur the table
+replace the billboard text with "OPEN" and make it bold
+lower the highlights and increase overall sharpness
+turn the bike frame red and remove the basket
+crop to center the subject and brighten the subject onlymake the backpack navy and remove the brand tag
+change the car color to matte black and darken the windows slightly
+recolor the mug to green and add a small white stripe
+make the shoes red and reduce background saturation
+make the dress pastel pink and brighten the face slightly
+change the bike frame to teal and remove the front basket
+make the hat yellow and make it slightly smaller
+turn the jacket brown and increase its texture sharpness
+recolor the scarf to purple and blur the background a bit
+change the door to white and straighten the welcome sign
+make the curtains light gray and darken the outside sky
+turn the sofa navy and reduce reflections on the table
+recolor the book cover to blue and align it straight
+change the phone case to transparent and remove the sticker
+add a red hat to the person and make it smaller
+add a plant on the desk and rotate the book to be straight
+add a blue sticker to the laptop and blur the table
+add a watch on the left wrist and reduce screen glare
+add a small lamp on the nightstand and warm the lighting
+add steam to the coffee and increase cup brightness
+add a cloud to the sky and decrease overall contrast slightly
+add a tennis ball near the dog and sharpen the dog
+add snow on the ground and cool the color temperature
+add a path in the grass and brighten the foreground
+remove the watermark and sharpen the subject
+remove the background person and crop tighter on the dog
+remove scratches on the phone and make the screen brighter
+remove red eye and soften skin a little
+remove reflections from the window and darken the outside
+replace the sky with a sunset sky and increase overall contrast slightly
+replace the painting with a landscape and align it straight
+replace the billboard text with the word OPEN and make it bold
+replace the coffee mug with a teacup and brighten the scene
+replace the flower bouquet with sunflowers and add a gentle vignette
+replace the logo on the shirt with a plain patch and smooth the area
+replace the background with a beach and keep subject colors natural
+replace the plate with a wooden board and warm the tones
+replace the wallpaper with a simple white wall and increase exposure
+replace the street sign with a stop sign and boost clarity
+add the text RIT on the mug and center it
+add the text SALE on the banner and make it bold
+add the number 23 on the jersey and align it left
+add a small label fragile on the box and rotate it straight
+add the word OPEN on the door and increase its contrast
+remove the text from the billboard and clean the background
+remove the brand name from the shoes and smooth the fabric
+replace the chalkboard text with today special and brighten the board
+add captions below the photo and make the font smaller
+remove the serial number on the device and keep edges sharp
+crop to center the subject and brighten the subject only
+crop from the left to remove the passerby and increase overall sharpness
+rotate the image to straighten the horizon and warm the colors
+rotate the frame to be level and reduce highlights
+resize the added hat to be smaller and increase its saturation slightly
+resize the logo to be larger and move it to the upper left
+change aspect ratio to 4 by 5 and preserve the subject
+align the picture frame and reduce motion blur
+straighten the door and decrease texture noise
+rotate the book to be straight and increase vignette slightly
+brighten the image and blur the background slightly
+darken the image and increase contrast moderately
+increase brightness of the face and reduce noise in the background
+lower the highlights and increase overall sharpness
+reduce saturation and add a gentle film grain
+increase contrast of the subject and soften the background
+reduce shadows and add a soft vignette
+increase clarity on the building and slightly cool the white balance
+reduce glare on the glasses and warm skin tones
+enhance details on the mountain and dehaze the sky a little
+brighten the eyes and soften the skin slightly
+darken the sky and keep the foreground bright
+reduce shine on the forehead and remove blemishes
+enhance texture on the road and blur the distant cars
+sharpen the text on the document and straighten the page
+brighten the sign and reduce reflections on the glass
+smooth the water and increase contrast on the rocks
+lighten the hair and keep the background unchanged
+darken the background trees and increase saturation of the flowers
+brighten the product label and remove scratches
+make the shirt blue remove the logo and straighten the collar
+add a hat make it smaller and warm up the image
+replace the sky with a sunrise brighten the foreground and reduce noise
+remove the person in the background crop tighter and increase clarity
+change the car color to red darken the windows and remove reflections
+add a bookshelf behind the subject increase contrast and desaturate the background
+replace the painting with abstract art level the frame and soften the shadows
+recolor the backpack to green remove the brand tag and sharpen the zipper
+make the window curtains white darken the outside and reduce glare
+add string lights above the desk warm the tones and reduce highlights
+replace the logo with a plain patch smooth the fabric and brighten the shirt
+add the word CLOSED to the sign increase its contrast and center it
+brighten the face reduce saturation of the background and add slight vignette
+increase texture on the jacket soften the background and cool the colors
+straighten the horizon enhance details in the water and darken the sky
+make the mug blue add a white stripe and reduce reflections
+crop to portrait orientation brighten the subject and soften skin slightly
+remove the wires in the sky dehaze the background and increase clarity
+replace the tile with wood texture warm the image and reduce shadows
+make the bike frame yellow remove the basket and sharpen the wheels
+reduce noise overall and preserve fine details

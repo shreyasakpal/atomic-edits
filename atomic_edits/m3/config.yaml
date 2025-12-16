@@ -1,0 +1,26 @@
+device: "cpu"
+
+vqa:
+  model_name: "Salesforce/blip2-opt-2.7b" 
+  max_new_tokens: 8
+  yes_words: ["yes", "true", "present"]
+  no_words: ["no", "false", "absent"]
+
+clip:
+  model_name: "ViT-B-32"
+  pretrained: "openai"
+  positive_templates: ["a photo of a {phrase}", "a {phrase}"]
+  negative_templates: ["a photo without {phrase}", "no {phrase}"]
+
+calibration:
+  vqa_yes_threshold: 0.60
+  clip_margin_threshold: 0.05
+
+paths:
+  edited_name: "edited.png"
+
+
+
+
+
+

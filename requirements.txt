@@ -1,0 +1,18 @@
+requests>=2.31.0
+openai>=1.40.0
+transformers>=4.43.0
+accelerate>=0.28.0
+sentencepiece
+timm
+open-clip-torch>=2.24.0
+lpips
+scikit-image>=0.19.0
+scipy>=1.10.0
+opencv-python>=4.5.0
+numpy>=1.23.0
+pillow>=9.0.0
+pyyaml>=6.0
+tqdm>=4.60.0
+matplotlib>=3.5.0
+einops  # For efficient tensor operations in CLIP/BLIP
+ftfy  # For text cleaning in CLIP
